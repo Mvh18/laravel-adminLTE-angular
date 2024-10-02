@@ -57,6 +57,9 @@
     "npm": ">=3"
   },
   "scripts": {
-    "postinstall": "bower install && gulp --production"
-  }
+    "dev": "gulp",                  
+    "production": "gulp --production",  
+    "webpack-dev-server": "webpack-dev-server --inline --hot"  
+  },
+  "postinstall": "bower install && gulp --production"
 }
