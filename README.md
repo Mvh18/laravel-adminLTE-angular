@@ -17,14 +17,6 @@ Plus Oauth and JWT authentication on the side.
 ![Login Screenshot](https://cloud.githubusercontent.com/assets/13616776/14597970/a366dc7c-0582-11e6-853b-776b1cf17aed.png
 )
 
-## Demo
-[Click here for a live demo](http://laravel-admin.herokuapp.com)
-
-*Note: If you register or use Oauth to sign-in your info will be available on public under user lists component, you can use credentials below.*
-
-> admin@example.com / password
-
-![laradmin](https://cloud.githubusercontent.com/assets/1888261/15561320/1899b4b2-2327-11e6-8a3a-7e3d7ce31621.png)
 
 ## Installation
 ```
